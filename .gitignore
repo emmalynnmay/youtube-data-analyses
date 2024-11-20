@@ -1,4 +1,3 @@
-/core
 .DS_Store
 .vscode
 .ipynb_checkpoints
@@ -6,5 +5,4 @@
 __pycache__/
 .venv
 my_env
-*.csv
 .env
