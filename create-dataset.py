@@ -4,9 +4,9 @@ import pandas as pd
 
 config = dotenv_values('.env')
 
-VIDEO_IDS = ['ZEV7ksLS5dk', 'ZbKd9AuncNI']#, 'jfWa-GD0szU']
+VIDEO_IDS = ['ZEV7ksLS5dk', 'ZbKd9AuncNI', 'jfWa-GD0szU']
 PLAYLIST_ID = 'PLCow7UQsPflmxuJnkVv1oEkanC3-ZDvmG'
-OUTPUT_NAME = 'output.csv'
+OUTPUT_NAME = 'new-youtube-data.csv'
 
 def authenticate():
     if config['YOUTUBE_API_KEY'] == '':
