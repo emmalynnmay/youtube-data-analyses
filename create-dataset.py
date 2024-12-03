@@ -7,12 +7,16 @@ config = dotenv_values('.env')
 TEST_VIDEO_IDS = ['ZEV7ksLS5dk', 'ZbKd9AuncNI', 'jfWa-GD0szU']
 TEST_PLAYLIST_ID = 'PLCow7UQsPflmxuJnkVv1oEkanC3-ZDvmG'
 PLAYLISTS = {
-    'Slam Poetry': 'PL9rT6KUep7uqN8Xioo3R32cUyogH5wVMk',
-    'Minecraft': 'PLKiPmtkaxvOYFJzP847fBEfpr4FZD3tpg',
-    'Movie Scenes': 'PLYhREcq3PbZ8duNVstBQ_0jnHC1ffxJfu',
-    'Woodworking': 'PLr6O8F0Sz5TrKaAzGdhmmkIoxE-vdRYDE',
-    'Space Songs': 'PLG04vLHTI500i3IcAK5Xsgn9F2q66ZOgr',
-    'Ancient Memes': 'PLHEBsC_NxJ_R3KnXJa4BfF7NEbnNvW_jg'
+    # 'USU': TEST_PLAYLIST_ID}
+    # 'Slam Poetry': 'PL9rT6KUep7uqN8Xioo3R32cUyogH5wVMk',
+    # 'Minecraft': 'PLKiPmtkaxvOYFJzP847fBEfpr4FZD3tpg',
+    # 'Movie Scenes': 'PLYhREcq3PbZ8duNVstBQ_0jnHC1ffxJfu',
+    # 'Woodworking': 'PLr6O8F0Sz5TrKaAzGdhmmkIoxE-vdRYDE',
+    # 'Space Songs': 'PLG04vLHTI500i3IcAK5Xsgn9F2q66ZOgr',
+    # 'Ancient Memes': 'PLHEBsC_NxJ_R3KnXJa4BfF7NEbnNvW_jg'
+    'Personal Finance': 'PLyDivztPycqygz3KyF8LV49oEX-I8MtcI',
+    'Travel': 'PLf_KMOEjgle4-6QCdJ51QprYSSYPjltkf',
+    'Health': 'PL3q2mpVkaj0SzMx2niYaCzIf3hJlIZJae'
     }
 OUTPUT_NAME = 'new-youtube-data.csv'
 PAGE_COUNT_LIMIT = 50
