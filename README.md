@@ -35,4 +35,6 @@ With current data from the YouTube API!
 
 ## References
 
+* UberSuggest
+* Yahoo Finance
 
