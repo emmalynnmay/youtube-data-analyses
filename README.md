@@ -1,4 +1,4 @@
-# Final Project
+# Analyses of YouTube Data
 
 CS 5830 - Data Science in Practice
 
